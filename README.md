@@ -1,4 +1,5 @@
 # Tidy_data_set
+This is how my script works
 
 1. script takes arguments which are paths to the files
 2. loads all files needed
